@@ -1,0 +1,7 @@
+{
+  "notificationBar": {
+    "type": "info",
+    "message": "Welcome to the new version of the Notification bar",
+	"comment": "Usable types of message - error(or p1 and p2), warning(or p3), success(or info). This comment value is ignored by script"
+  }
+}
